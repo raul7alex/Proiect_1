@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Laptop-Adry\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Laptop-Adry\Desktop\SocketClient-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8a6b209cde77ebdb683e21e191c6921f53b0390c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Laptop-Adry\Desktop\SocketClient-master\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Laptop-Adry\Desktop\SocketClient-master\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_70e106239aecb63a9357cbd1e7fe663b79b339e2.jar" />
+    </item>
+
+</items>

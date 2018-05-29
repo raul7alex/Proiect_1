@@ -1,0 +1,44 @@
+{
+  "Category": {
+    "10": {
+      "Name": "SUPE,CIORBE",
+      "Image": "http://delivery.martyrestaurants.com/media/catalog/product/cache/1/small_image/288x/9df78eab33525d08d6e5fb8d27136e95/s/u/supa_de_pui_cu_taitei_app.jpg"
+    },
+    "01": {
+      "Name": "PRERPARATE CALDE",
+      "Image": "http://delivery.martyrestaurants.com/media/catalog/product/cache/1/small_image/288x/9df78eab33525d08d6e5fb8d27136e95/j/u/juicy_tender_chicken_site.jpg"
+    },
+    "02": {
+      "Name": "SALATE",
+      "Image": "http://delivery.martyrestaurants.com/media/catalog/product/cache/1/small_image/288x/9df78eab33525d08d6e5fb8d27136e95/s/a/salata_primavera_app.jpg"
+    },
+    "03": {
+      "Name": "ENTREES",
+      "Image": "http://delivery.martyrestaurants.com/media/catalog/product/cache/1/small_image/288x/9df78eab33525d08d6e5fb8d27136e95/c/r/crispy-chicken-qdilla.jpg"
+    },
+    "04": {
+      "Name": "BURGERI",
+      "Image": "http://delivery.martyrestaurants.com/media/catalog/product/cache/1/small_image/288x/9df78eab33525d08d6e5fb8d27136e95/t/h/the_boss_is_back_app.jpg"
+    },
+    "05": {
+      "Name": "TORTURI CHEESECAKE",
+      "Image": "http://delivery.martyrestaurants.com/media/catalog/product/cache/1/small_image/288x/9df78eab33525d08d6e5fb8d27136e95/c/h/cheesecake-original-delivery.jpg"
+    },
+    "06": {
+      "Name": "SOSURI",
+      "Image": "http://delivery.martyrestaurants.com/media/catalog/product/cache/1/small_image/288x/9df78eab33525d08d6e5fb8d27136e95/s/o/sos_sriracha_app.jpg"
+    },
+    "07": {
+      "Name": "PIZZA",
+      "Image": "http://delivery.martyrestaurants.com/media/catalog/product/cache/1/small_image/288x/9df78eab33525d08d6e5fb8d27136e95/m/e/mexicana_app.jpg"
+    },
+    "08": {
+      "Name": "PASTE",
+      "Image": "http://delivery.martyrestaurants.com/media/catalog/product/cache/1/small_image/288x/9df78eab33525d08d6e5fb8d27136e95/s/p/spaghetti_pomodoro_app_1_1.jpg"
+    },
+    "09": {
+      "Name": "GARNITURI",
+      "Image": "http://delivery.martyrestaurants.com/media/catalog/product/cache/1/small_image/288x/9df78eab33525d08d6e5fb8d27136e95/c/a/cartofi_piure_app.jpg"
+    }
+  }
+}
